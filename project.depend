@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1523118303 source:/Users/agataludwiczak/Desktop/project/main.cpp
+	<iostream>
+	"mymath.h"
+
+1523118383 /Users/agataludwiczak/Desktop/project/mymath.h
+
+1523118384 source:/Users/agataludwiczak/Desktop/project/mymath.cpp
+
